@@ -15,5 +15,6 @@
         android:contentDescription="@string/heartContent"
         android:padding="8dp"
         android:scaleType="fitCenter"
-        tools:src="@drawable/ic_black_heart" />
+        tools:src="@drawable/ic_black_heart"
+        />
 </android.support.constraint.ConstraintLayout>
