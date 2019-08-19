@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Services</string>
+    <string name="ma">hello <annotation font="title_emphasis">Mohammed</annotation> how are you?</string>
+    <string name="heartContent">Heart</string>
+    <string name="notificationBody">I don\'t see you from 2 minutes, PLEASE don\'t late</string>
+    <string name="notificationTitle">I miss you</string>
+
 </resources>
